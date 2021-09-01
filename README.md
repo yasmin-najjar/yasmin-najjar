@@ -7,7 +7,7 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm currently working on my React skills 
-* 🎓 I'm a Computer Science student (graduating in May 2019)
+* 🎓 I'm a Computer Science graduate (graduated in May 2019)
 * 📱 I’m looking to collaborate on front-end and back-end projects
 * 🌐 I like taking up new challenges and meeting new people! 
 
